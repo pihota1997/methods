@@ -2,8 +2,8 @@ import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) {
-        int os1 = 1;
-        int year1 = 2000;
+        int os1 = 0;
+        int year1 = 2023;
 
         printVersionType(os1, year1);
 
